@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 ### Marketing
 - Performance Marketing - Media Management
 - Data Analysis - GA4, GTM, BigQuery, SQL, Looker Studio
-- Growth Marketing - UX/UI Planning, Process Improvement, Conversion Analysis
+- Growth Marketing - UI/UX Planning, Process Improvement, Conversion Analysis
