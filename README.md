@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... [BOLD9](https://www.bold-9.com/)
 - 💬 Ask me about ... marketing, data analysis, and growth marketing.
 - 📫 How to reach me: ... [hank.c1226@gmail.com](mailto:hank.c1226@gmail.com)
