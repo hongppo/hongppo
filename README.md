@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ... [BOLD9](https://www.bold-9.com/)
+- 🔭 I’m currently working on ... [GM Lab](https://gmlab.io/)
 - 💬 Ask me about ... marketing, data analysis, and growth marketing.
 - 📫 How to reach me: ... [hank.c1226@gmail.com](mailto:hank.c1226@gmail.com)
 
